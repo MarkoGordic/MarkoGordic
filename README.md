@@ -1,48 +1,37 @@
 # Hey, I'm Marko Gordić!
 
 - :round_pushpin: I'm form Serbia
-- :mortar_board: I'm student at Gymnasium Jovan Jovanović Zmaj  
+- :mortar_board: I'm student at Faculty of Techncal Sciences @ University of Novi Sad
+- 🏆 Proud member of Serbian Cybersecurity National Team for ECSC 2023
 - 🌱 I’m currently learning everything about Cyber Security but I always like to learn anything new in any field of IT
-- 🔭 I’m currently competing in various CTFs with my team (The Middlemen), we are preparing for the final stage of the **Serbian Cybersecurity Challange 2022**
+- 🔭 I’m currently competing in various CTFs with my team CyberHero, you can find out more information about us on [our ctftime profile](https://ctftime.org/team/130070)
 - :mailbox: You can contact me using any of the options below
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgordic22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-gordić-921a03246/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gordic/)
 
-## Technologies, Tools & Languages
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=ffffff)
-![Shell Script](https://img.shields.io/badge/Shell_Script-black?style=flat-square&logo=gnu-bash&logoColor=white)
-![Powershell](https://img.shields.io/badge/Powershell-black?style=flat-square&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-squar&logo=php&logoColor=white)
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-black?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=ffffff)
-![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-black?style=flat-square&logo=visual%20studio&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Webstorm](http://img.shields.io/badge/-Webstorm-black?style=flat-square&logo=webstorm)
-![Python](http://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&logoColor=ffffff)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity&logoColor=white)
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white)
-![Webstorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
+## Programming Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-## Operating Systems
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=white)
-![Windows](http://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=windows&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![Debian](http://img.shields.io/badge/-Debian-black?style=for-the-badge&logo=debian&logoColor=ffffff)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white)
+![PowerShell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
+![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Spotify
 
