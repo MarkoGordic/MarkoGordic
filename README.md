@@ -1,7 +1,7 @@
 # Hey, I'm Marko Gordić!
 
-- :round_pushpin: I'm form Serbia
-- :mortar_board: I'm student at Faculty of Techncal Sciences @ University of Novi Sad
+- :round_pushpin: I'm from Serbia
+- :mortar_board: I'm student at Faculty of Technical Sciences @ University of Novi Sad
 - 🏆 Proud member of Serbian Cybersecurity National Team for ECSC 2023
 - 🌱 I’m currently learning everything about Cyber Security but I always like to learn anything new in any field of IT
 - 🔭 I’m currently competing in various CTFs with my team CyberHero, you can find out more information about us on [our ctftime profile](https://ctftime.org/team/130070)
