@@ -7,7 +7,7 @@
 - 🔭 I’m currently competing in various CTFs with my team CyberHero, you can find out more information about us on [our ctftime profile](https://ctftime.org/team/130070)
 - :mailbox: You can contact me using any of the options below
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgordic22@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marko@gordic.rs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gordic/)
 
 ## My Tech Stack
