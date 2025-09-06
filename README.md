@@ -2,7 +2,7 @@
 <!-- Header -->
 <h1 align="center" style="margin:0 0 10px; font-size:2.8rem; line-height:1.1;">
   <span style="background:linear-gradient(90deg,#60a5fa,#2563eb,#1e3a8a);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">
-    Marko Gordić
+    Hello World! I'm Marko Gordić
   </span> 👋
 </h1>
 
