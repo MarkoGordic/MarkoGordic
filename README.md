@@ -37,33 +37,6 @@
 
 <hr style="border:none; height:1px; background:linear-gradient(90deg,#60a5fa,#2563eb,#1e40af); margin:20px 0;" />
 
-<!-- Focus Grid (extra spacing + forced <b> & newlines) -->
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:22px; row-gap:22px;">
-  <!-- COO -->
-  <div style="min-width:300px; max-width:440px; flex:1; padding:18px; border-radius:18px; border:1.5px solid #bfdbfe; background:linear-gradient(180deg,#eef2ff,#ffffff); box-shadow:0 6px 18px rgba(30,64,175,.08); text-align:left;">
-    <b style="color:#1e3a8a;">🏁 COO — The Cyber Protect</b><br/>
-    <span style="color:#10327a;">Operating cadence, clarity, and momentum across product, growth, and delivery.</span><br/><br/>
-    <b>Focus:</b><br/>
-    OKRs &amp; KPIs • runway &amp; budgets • hiring pipeline • weekly rituals • GTM ops
-  </div>
-
-  <!-- Life -->
-  <div style="min-width:300px; max-width:380px; flex:1; padding:18px; border-radius:18px; border:1.5px solid #bfdbfe; background:linear-gradient(180deg,#eef2ff,#ffffff); box-shadow:0 6px 18px rgba(30,64,175,.08); text-align:left;">
-    <b style="color:#1e3a8a;">⏳ Life</b><br/>
-    <span style="color:#10327a;">Living in the moment, writing small memories with timestamps, collecting the ordinary.</span><br/><br/>
-    <b>Habits:</b><br/>
-    daily notes • micro-moments • gratitude
-  </div>
-
-  <!-- Digital Forensics -->
-  <div style="min-width:300px; max-width:380px; flex:1; padding:18px; border-radius:18px; border:1.5px solid #bfdbfe; background:linear-gradient(180deg,#eef2ff,#ffffff); box-shadow:0 6px 18px rgba(30,64,175,.08); text-align:left;">
-    <b style="color:#1e3a8a;">🧪 Digital Forensics</b><br/>
-    <span style="color:#10327a;">Windows/macOS triage, timelines, artifact carving, and repeatable DFIR pipelines.</span><br/><br/>
-    <b>Toolkit:</b><br/>
-    Volatility • TSK • yara • Python
-  </div>
-</div>
-
 <hr style="border:none; height:1px; background:linear-gradient(90deg,#60a5fa,#2563eb,#1e40af); margin:20px 0;" />
 
 <!-- MUSIC (blue cards + Shields.io for artists) -->
@@ -80,7 +53,6 @@
         <img alt="Plavi Orkestar" src="https://img.shields.io/badge/Plavi%20Orkestar-Music-1e40af?style=flat&logo=spotify&logoColor=white"/>
         <img alt="Vlado Georgiev" src="https://img.shields.io/badge/Vlado%20Georgiev-Music-1e40af?style=flat&logo=spotify&logoColor=white"/>
       </p>
-      <p style="margin:10px 0 0; color:#10327a; font-size:.95rem;">cassette culture, seaside nights, long drives across the region</p>
     </div>
   </div>
 
@@ -89,7 +61,7 @@
     <div style="border:1.5px solid #bfdbfe; background:linear-gradient(180deg,#eef2ff,#ffffff); border-radius:16px; padding:16px; box-shadow:0 6px 18px rgba(30,64,175,.08);">
       <div style="white-space:pre-line; color:#0f172a; font-size:1.12rem; line-height:1.6; font-family: Georgia,'Times New Roman',Times,serif; letter-spacing:.25px; font-style:italic;">
 Još pamtim onaj dan, kad' si otišla
-U ljeto osamdesete, kiša je padala
+U ljeto osamdesete, kiša je padala...
       </div>
     </div>
   </div>
