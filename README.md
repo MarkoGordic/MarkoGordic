@@ -45,7 +45,6 @@
   <!-- Left: favorite artists (Shields.io) -->
   <div style="flex:1 1 360px; min-width:280px;">
     <div style="border:1.5px solid #bfdbfe; background:linear-gradient(180deg,#eef2ff,#ffffff); border-radius:16px; padding:16px; box-shadow:0 6px 18px rgba(30,64,175,.08);">
-      <div style="font-weight:800; color:#1e3a8a; margin-bottom:10px;">Favorite Artists</div>
       <p style="display:flex; flex-wrap:wrap; gap:6px; margin:0;">
         <img alt="Crvena Jabuka" src="https://img.shields.io/badge/Crvena%20Jabuka-Music-1e40af?style=flat&logo=spotify&logoColor=white"/>
         <img alt="Željko Samardžić" src="https://img.shields.io/badge/%C5%BDeljko%20Samard%C5%BEi%C4%87-Music-1e40af?style=flat&logo=spotify&logoColor=white"/>
